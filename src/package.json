@@ -1,0 +1,23 @@
+{
+  "name": "top40",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "description": "a desktop app that displays Spotifys top 40 streamed songs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryboh1/top40checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryboh1/top40checker/issues"
+  },
+  "homepage": "https://github.com/ryboh1/top40checker#readme",
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "electron": "^7.1.11"
+  }
+}

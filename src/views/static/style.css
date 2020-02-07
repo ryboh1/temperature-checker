@@ -1,0 +1,17 @@
+
+/* misc*/
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: large;
+}
+
+body{
+    background-image: url("../images/background-clouds.jpg");
+    background-size: 550px 400px;
+}
+/* colours (red)f78888 (yellow)f3d250 (grey) ececec (light blu)90ccf4 (darkblue)5da2d5 */  
+
+
+/* weather form*/
+
+/*weather result*/
