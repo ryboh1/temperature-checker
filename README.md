@@ -12,6 +12,9 @@ a desktop app that tells you the temperature of any city in the world
 4. ```npm install bootstrap --save-dev``` - to download bootstrap
 5. ```npm start``` - to start the electron app
 
+a youtube video on the above instructions:
+https://www.youtube.com/watch?v=p5WrST4smUc
+
 ### Prerequisites
 
 1. Node Project Manager is installed
