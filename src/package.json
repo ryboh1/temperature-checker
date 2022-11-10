@@ -18,6 +18,6 @@
   "homepage": "https://github.com/ryboh1/top40checker#readme",
   "devDependencies": {
     "bootstrap": "^4.4.1",
-    "electron": "^7.1.11"
+    "electron": "^18.3.7"
   }
 }
